@@ -460,7 +460,7 @@ Restart:
 
 Open:
 
->http://quickloan.ddns.net
+>http://quickloan.dds.net
 
 Submit loan application.
 
